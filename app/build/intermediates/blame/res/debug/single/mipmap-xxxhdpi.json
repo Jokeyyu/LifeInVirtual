@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\eric\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "D:\\eric\\LifeInVirtual\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\eric\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\eric\\LifeInVirtual\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\zhouliaoyu\\AndroidStudioProjects\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\zhouliaoyu\\AndroidStudioProjects\\LifeInVirtual\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\zhouliaoyu\\AndroidStudioProjects\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\zhouliaoyu\\AndroidStudioProjects\\LifeInVirtual\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

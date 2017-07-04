@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\eric\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\zhouliaoyu\\.android\\build-cache\\a174f032f72c9abfe8f87df1cb72ccc5cecb3e3e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhouliaoyu\\AndroidStudioProjects\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\zhouliaoyu\\.android\\build-cache\\a174f032f72c9abfe8f87df1cb72ccc5cecb3e3e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhouliaoyu\\AndroidStudioProjects\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\zhouliaoyu\\.android\\build-cache\\a174f032f72c9abfe8f87df1cb72ccc5cecb3e3e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhouliaoyu\\AndroidStudioProjects\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\zhouliaoyu\\.android\\build-cache\\a174f032f72c9abfe8f87df1cb72ccc5cecb3e3e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\eric\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\zhouliaoyu\\.android\\build-cache\\a174f032f72c9abfe8f87df1cb72ccc5cecb3e3e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\eric\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\zhouliaoyu\\.android\\build-cache\\a174f032f72c9abfe8f87df1cb72ccc5cecb3e3e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhouliaoyu\\AndroidStudioProjects\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\zhouliaoyu\\.android\\build-cache\\a174f032f72c9abfe8f87df1cb72ccc5cecb3e3e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\eric\\LifeInVirtual\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\zhouliaoyu\\.android\\build-cache\\a174f032f72c9abfe8f87df1cb72ccc5cecb3e3e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
